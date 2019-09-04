@@ -1,0 +1,157 @@
+﻿
+
+footer {
+   
+    position:relative;
+    bottom:0;
+    padding: 30px;
+    text-align: center;
+    margin-top: 0px;
+	
+}
+
+    #one ul {
+
+        text-align:center;
+
+    }
+    
+    #one ul li{
+
+        display:inline-block;
+        text-decoration:none;
+        margin:10px;
+    }
+
+      #one ul li a
+    {
+        color:white;
+        text-decoration:none;
+        font-size:10px;
+        }
+#one ul li a:hover
+{
+    background-color:rgba(0,0,0,0.5);
+    color:White;
+    }
+    
+    #two ul {
+
+        text-align:center;
+
+    }
+    
+    #two ul li{
+
+        display:inline-block;
+        text-decoration:none;
+        margin:10px;
+    }
+   #two ul li a
+    {
+        text-decoration:none;
+         font-size:10px;
+         color:white;
+        }
+
+    #two ul li a:hover
+{
+    background-color:rgba(0,0,0,0.5);
+    color:White;
+    }
+
+    
+    #three ul {
+
+        text-align:center;
+
+    }
+    
+    #three ul li{
+
+        display:inline-block;
+        text-decoration:none;
+        margin:10px;
+    }
+       #three ul li a
+    {
+        text-decoration:none;
+         font-size:10px;
+         color:white;
+        }
+        
+#three ul li a:hover
+{
+    background-color:rgba(0,0,0,0.5);
+    color:White;
+    }
+
+    
+    #four ul {
+
+        text-align:center;
+
+    }
+    
+    #four ul li{
+
+        display:inline-block;
+        text-decoration:none;
+        margin:10px;
+       
+    }
+    
+    
+    #four ul li a
+    {
+        text-decoration:none;
+         font-size:10px;
+          color:white;
+        }
+
+#four ul li a:hover
+{
+    background-color:rgba(0,0,0,0.9);
+    color:White;
+    }
+    
+    
+ 
+.fa
+{
+    height:40px;
+    width:40px;
+    
+    }
+    
+    .fa-facecook
+    {
+        background-color:black;
+        color:white;
+        }
+        
+         .fa-instragrame
+    {
+        background-color:black;
+        color:white;
+        }
+        
+         .fa-twiter
+    {
+        background-color:black;
+        color:white;
+        }
+        
+        
+         .fa-linked
+    {
+        background-color:black;
+        color:white;
+        }
+        
+        
+        
+        #icon img:hover
+        {
+            background-color:rgba(0,0,0,0.5);
+            }
